@@ -6,7 +6,7 @@
 ## II. Frontend Development
 <p justify-content="space-between">The frontend of this application is built with React and And Design. React is modulized and can efffectively render the webpage with its virtual DOM, while Ant Design provides various high-quality UI components. The final design of the web pages are shown in Fig. 1-4 below.</p>
 
-<div align="center"><img src="140.82.112.3"></div>
+<div align="center"><img src="https://github.com/Jiayuli-CU/TwitchPlus/blob/main/Pics/homepage.png"></div>
 <p align="center">Fig. 1 Home page</p>
 
 <div align="center"><img src="https://github.com/Jiayuli-CU/TwitchPlus/blob/main/Pics/register.png"></div>
